@@ -1,0 +1,6 @@
+playwright
+beautifulsoup4
+pandas
+textblob
+scikit-learn
+lxml
